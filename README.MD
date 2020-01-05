@@ -1,3 +1,5 @@
-This is the content of [nickcraver.com](https://nickcraver.com). It's rendered via Jekyll hosted by GitHub pages and protected behind CloudFlare. 
+# ha3ks.tech
 
-See a problem with my site? Please leave a comment, open an issue, or just submit a pull request :)
+This is the source code for [ha3ks.tech](https://ha3ks.tech), a static site built with [Hugo](https://gohugo.io/)
+
+Lightweight and can get ten to the dozen downhil with the wind.
