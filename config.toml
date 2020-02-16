@@ -1,0 +1,61 @@
+# Site settings
+baseurl = "https://ha3ks.tech/"
+basename = "Dan Murray"
+languageCode = "en-us"
+title = "Dan Murray / Technologist"
+googleAnalytics = "UA-147658659-1"
+enableRobotsTXT = false
+disableRSS = true
+disableSitemap = true
+
+[params]
+  name = "Dan Murray"
+  description = "A highly driven technologist, with over 10 years’ experience with leading companies. I am a jack of all trades and highly focussed on improvement and automation."
+
+  # Home section
+  [params.home]
+    id = "home"
+    title = "Dan Murray"
+    subtitle = "Technologist"
+    image = "/assets/img/home.jpg"
+    imageAlt = "Dan Murray"
+    imagePosition = "center center"
+
+  # 404 page
+  [params.page404]
+    id = "page404"
+    title = "<i class=\"icon fa-exclamation-circle\"></i> 404: Page Not Found"
+    subtitle = "Sorry, but that page can't be found <i class=\"icon fa-frown-o\"></i>"
+    image = "/assets/img/404.jpg"
+    imageAlt = "404: Page Not Found"
+    imagePosition = "center center"
+
+  # Footer section
+  [params.footer]
+    text = "&copy; Copyright 2018-XXXX Ha3ks Technology LLC. All rights reserved. Powered by [Hugo](//gohugo.io). [[source]](//github.com/ha3ks-tech/ha3ks-tech.github.io)"
+
+  # Social icons section
+  [[params.social]]
+    title = "Email"
+    icon = "fa-envelope"
+    link = "mailto:dan@ha3ks.tech"
+
+  [[params.social]]
+    title = "GitHub"
+    icon = "fa-github"
+    link = "https://github.com/ha3ks"
+
+  [[params.social]]
+    title = "LinkedIn"
+    icon = "fa-linkedin"
+    link = "https://linkedin.com/in/ha3ks"
+
+  [[params.social]]
+    title = "Twitter"
+    icon = "fa-twitter"
+    link = "http://twitter.com/ha3ks"
+
+  [[params.social]]
+    title = "Instagram"
+    icon = "fa-instagram"
+    link = "https://instagram.com/ha3ks"
