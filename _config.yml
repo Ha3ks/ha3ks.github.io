@@ -1,0 +1,29 @@
+# Site settings
+title: Software Imagineering
+email: nrcraver@gmail.com
+description: > #
+url: "https://nickcraver.com"
+twitter_username: Nick_Craver
+github_username:  NickCraver
+stackoverflow_link: users/13249/nick-craver
+
+permalink: /:categories/:year/:month/:day/:title/
+contenturl: "/blog/content/"
+markdown: kramdown
+kramdown:
+  input: GFM
+  parse_block_html: true
+  #parse_span_html: true
+excerpt_separator: <!--more-->
+
+disqus: nickcraver
+
+google_analytics_ua: UA-28897355-1
+
+#paginate: 5
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
