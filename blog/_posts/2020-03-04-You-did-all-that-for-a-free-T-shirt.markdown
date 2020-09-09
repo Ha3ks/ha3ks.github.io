@@ -19,9 +19,9 @@ So I figured it was time for myself to give back to the internet that ever so lo
 
 How best to do this?
 
-[*] A personal blog? (I don’t get a lot of hits 😥 ).
-[*] Writing on Medium.com?
-[*] Creating Educational Videos for all to view on YouTube but get flagged for copyright so start uploading to [*] PornHub (Shoutout to [@notdan](https://twitter.com/notdan) btw, he’s hilarious).
+* A personal blog? (I don’t get a lot of hits 😥 ).
+* Writing on Medium.com?
+* Creating Educational Videos for all to view on YouTube but get flagged for copyright so start uploading to PornHub (Shoutout to [@notdan](https://twitter.com/notdan) btw, he’s hilarious).
 
 What could I do? Well.. I learned something and now I’m going to share it with you.
 
@@ -88,14 +88,17 @@ IMPORTANT SIDE NOTE: Make sure you come up with a kick ass name for your relay, 
 The relay I was hoping to become was a part of this process thanks to the ‘arm’ command (<b>Anonymizing Relay Monitor</b>) which actually finished off some setup I believe I had missed first time and allowed me to also monitor the traffic directly on the machine;
 
 [![Initial]({{ site.contenturl }}initial.png)]({{ site.contenturl }}initial.png)
+
 Initial ARM load screen
 
 [![Running]({{ site.contenturl }}running.png)]({{ site.contenturl }}running.png)
+
 Running happily away to itself
 
 Oh and again this probably wont happen to you but every so often I would check the machine and be greeted with this mess;
 
 [![Error]({{ site.contenturl }}torerror.png)]({{ site.contenturl }}torerror.png)
+
 Ah yes, that was the problem… it so clear to me now.
 
 hitting any button cleared it back up again.
@@ -125,17 +128,17 @@ Another error I had was actually that the version of Tor my machine was running 
 
 <b>What did you learn?</b>
 
-[*] Old Laptops are old for a reason, technology moves so fast man, so fast. I can see this laptop getting formatted in the future and another copy of Ubuntu going on it for my son (or Kali, lets stir that pot a little more).
-[*] The Tor project is <u>actually a good cause.</u>
-[*] You can do a lot, with a little.
-[*] Nobody cares about your stupid diet.
+* Old Laptops are old for a reason, technology moves so fast man, so fast. I can see this laptop getting formatted in the future and another copy of Ubuntu going on it for my son (or Kali, lets stir that pot a little more).
+* The Tor project is <u>actually a good cause.</u>
+* You can do a lot, with a little.
+* Nobody cares about your stupid diet.
 
 <b>Why is this post going on about a free T-Shirt?</b>
 
 I was getting to that, The Tor Project, because your helping out and being a nice guy (or gal) they do have a sort of ‘[rewards program](https://2019.www.torproject.org/getinvolved/tshirt.html)‘ where you can get some free swag if contribute to the project, the most common two ways are;
 
-[1] Operate a fast [Tor relay](https://2019.www.torproject.org/docs/tor-doc-relay.html.en) that’s been running for the past two months: you are eligible if you allow exits to port 80 and you average 250 KBytes/s traffic, or if you’re not an exit but you average 500 KBytes/s traffic.
-[2] Help out in [other ways](https://2019.www.torproject.org/getinvolved/volunteer.html.en). [Maintain a translation](https://2019.www.torproject.org/getinvolved/translation.html.en). Write a good [support program and get a lot of people to use it](https://trac.torproject.org/projects/tor/wiki/doc/SupportPrograms). Do research on Tor and anonymity, solve some of [our bugs](https://bugs.torproject.org/), or establish yourself as a Tor advocate.
+1. Operate a fast [Tor relay](https://2019.www.torproject.org/docs/tor-doc-relay.html.en) that’s been running for the past two months: you are eligible if you allow exits to port 80 and you average 250 KBytes/s traffic, or if you’re not an exit but you average 500 KBytes/s traffic.
+2. Help out in [other ways](https://2019.www.torproject.org/getinvolved/volunteer.html.en). [Maintain a translation](https://2019.www.torproject.org/getinvolved/translation.html.en). Write a good [support program and get a lot of people to use it](https://trac.torproject.org/projects/tor/wiki/doc/SupportPrograms). Do research on Tor and anonymity, solve some of [our bugs](https://bugs.torproject.org/), or establish yourself as a Tor advocate.
 
 Would it be cheaper just to buy a shirt and not crap on the electric bill for pennies a month? sure. To make things even easier and cheaper for myself you can actually run a really good relay/node on a [Raspberry Pi model 2/3](https://www.instructables.com/id/Tor-Relay-on-Raspberry-Pi-2/).
 
