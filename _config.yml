@@ -5,7 +5,7 @@ description: > #
 url: "https://www.ha3ks.tech"
 twitter_username: ha3ks
 github_username:  ha3ks
-stackoverflow_link: users/13249/nick-craver
+stackoverflow_link: users/4716541/dan
 
 permalink: /:categories/:year/:month/:day/:title/
 contenturl: "/blog/content/"
@@ -16,7 +16,7 @@ kramdown:
   #parse_span_html: true
 excerpt_separator: <!--more-->
 
-disqus: nickcraver
+disqus: ha3kstech
 
 google_analytics_ua: UA-28897355-1
 
