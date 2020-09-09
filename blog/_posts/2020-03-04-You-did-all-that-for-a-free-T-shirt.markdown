@@ -3,7 +3,7 @@ layout: post
 author: Dan Murray
 title:  "You did all that, for a free T-shirt?"
 date:   2020-03-04 12:00:00
-disqus_identifier: "12 http://ha3ks.tech/blog/?p=14"
+disqus_identifier: "14 http://ha3ks.tech/blog/?p=14"
 ---
 Yup.
 

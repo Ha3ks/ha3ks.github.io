@@ -3,7 +3,7 @@ layout: post
 author: Dan Murray
 title:  "Answering a 3 year old question"
 date:   2019-02-17 12:00:00
-disqus_identifier: "12 http://ha3ks.tech/blog/?p=13"
+disqus_identifier: "13 http://ha3ks.tech/blog/?p=13"
 ---
 4 score and some time since I last thought of this, I had a bus pass.
 
