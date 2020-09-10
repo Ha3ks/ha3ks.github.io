@@ -116,16 +116,16 @@ So Interference is a real thing and it will cut into your WiFi just like thick w
 
 You can eventually settle on something that works and gets good speeds and good coverage and that’s all there is to it, we don’t all have cash to burn on top of the line kit…
 
-[![Sub_to_LTT](https://img.youtube.com/vi/5aJ2QAO9PZo/0.jpg)](https://youtu.be/5aJ2QAO9PZo)
+[![SUB TO LTT](http://img.youtube.com/vi/5aJ2QAO9PZo/0.jpg)](http://www.youtube.com/watch?v=5aJ2QAO9PZo "I REPLACED my $1000 Wifi....")
 
 dat UniFi kit doe *drools in connectivity*.
 
 I hope this helps some people understand some of the happenings in the background of your broadband connection and its speeds. It’s a little complex a subject but I’m happy to help pass on knowledge where I can and if it helps someone then all the better.
 
 <b>Reference:</b>
-https://availability.samknows.com/broadband/broadband_checker
-https://www.wightcomputers.co.uk/wp-content/uploads/2013/05/openreach-layout.jpg
-https://www.trefor.net/wp-content/uploads/2010/07/fttc.jpg
-https://www.digitaltrends.com/computing/wi-fi-problems-and-solutions/
+* [https://availability.samknows.com/broadband/broadband_checker](https://availability.samknows.com/broadband/broadband_checker)
+* [https://www.wightcomputers.co.uk/wp-content/uploads/2013/05/openreach-layout.jpg](https://www.wightcomputers.co.uk/wp-content/uploads/2013/05/openreach-layout.jpg)
+* [https://www.trefor.net/wp-content/uploads/2010/07/fttc.jpg](https://www.trefor.net/wp-content/uploads/2010/07/fttc.jpg)
+* [https://www.digitaltrends.com/computing/wi-fi-problems-and-solutions/](https://www.digitaltrends.com/computing/wi-fi-problems-and-solutions/)
 
 
