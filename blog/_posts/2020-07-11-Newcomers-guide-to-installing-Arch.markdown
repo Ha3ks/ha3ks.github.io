@@ -363,11 +363,11 @@ Once done, you should see a line at the bottom that reads ==> Image generation s
 
 On to the bootloader. GRUB is the bootloader we have selected for this guide. It requires two commands to set up and is one of the easier and more commonly used bootloaders in GNU/Linux distributions. First, we point GRUB to the disk (not partition) that we want it to read at boot:
 
-[root@archiso /]# grub-install /dev/sda
+> [root@archiso /]# grub-install /dev/sda
 
 Next, we run the configuration script and point it to output the text to a grub.cfg file located in the /mnt/boot directory that we mounted /dev/sda1 (our boot partition) to.
 
-[root@archiso /]# grub-mkconfig –output /boot/grub/grub.cfg
+> [root@archiso /]# grub-mkconfig –output /boot/grub/grub.cfg
 
 Now we have two final commands to input before we are ready to exit the CHROOT environment. These two commands will be using the CLI command SYSTEMCTL (System Control). This command has the power to start and stop, as well as enable or disable system services. The two services we will be enabling are “NetworkManager” and “GDM”. The Network Manager service allows for automatic DHCP discovery as well as a graphical interface for managing your network connections, proxies, and VPN services. The Gnome Desktop Manager (GDM) is a Desktop Manager or Login Manager, that will start after Arch Linux is booted fully. This will replace the need to log into a terminal and start the XORG-Server manually.
 
@@ -418,6 +418,9 @@ I would like to thank the following people for the wonderful job they did in pro
 * As well as the others I forgot to mention!
 
 I hope you found this guide useful. If you have any comments, questions or corrections you would like to make, please feel free to contact me via [https://twitter.com/BranndonEPike](https://twitter.com/BranndonEPike)
+
+
+
 
 My Notes:
 
