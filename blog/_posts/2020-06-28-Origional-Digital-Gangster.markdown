@@ -54,11 +54,11 @@ All these ‘requirements’ are on job postings are a shopping list, a shopping
 
 So with all this in mind (I have many different points of view spinning in my head every time I write something), I have decided its time to put my learning into action.
 
-<b>Hack The Box</b>
+[<b>Hack The Box</b>](https://www.hackthebox.eu/)
 
 Hack the box is an online CTF (Capture the Flag) game that anyone can play (as long as they think like a hacker). You can come in at any skill set and learn and improve. Part of the Practical Ethical Hacking Certification is doing some of these boxes so I decided to finally put an end to my impostor syndrome (which by the way kicks my ass hard every day in ways you can’t imagine or understand why) and finally put something into myself and start knocking down boxes, one at a time till they are done.
 
-<b>Hacker One & Bug Crowd</b>
+[<b>Hacker One</b>](https://www.hackerone.com/) & [<b>Bug Crowd</b>](https://www.bugcrowd.com/)
 
 Hacker One (H1) and Bug Crowd are bug bounty programs that reward hackers for (not only sticking to spec) but for finding flaws in the security of companies that run through them. Companies like Paypal, Brave Browser, Uber, Lyft, Pornhub (yes a legit reason to browse all day *cough*), Facebook etc etc all pay bounty hunters to find and document their bugs.
 
@@ -68,7 +68,7 @@ So this is something that I could try (even if I fail) and get paid.
 
 On the education side as my new hobby besides picking up achievements on the xbox is getting certifications.
 
-<b>CompTIA</b>
+[<b>CompTIA</b>](https://www.comptia.org/home)
 
 Lets face it, there is nothing more house hold name then CompTIA, with my experience I should be dropping Network+ as my first port of call followed by Seurity+, Linux+ and eventually CySa+. Lofty goals are great when you have no income, but, its something to strive towards.
 
@@ -86,17 +86,3 @@ There is one other thing I have been kicking around in my head that I want to do
 
 In Conclusion, this is where I am at the last month has been a roller coaster and I’ve started gaining traction, how about you?
 
-
-
-
-
-
-
-
-Built in image:
-
-[![Scanner]({{ site.contenturl }}scanner.jfif)]({{ site.contenturl }}scanner.jfif)
-
-a http link:
-
-[@RealTinehNimjeh](https://twitter.com/tinehagent?lang=en)

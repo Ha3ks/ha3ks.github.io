@@ -47,7 +47,8 @@ I digress, we want to get back on track to all the hot sexy illegal stuff, yesh 
 
 <b>What is Tor?</b>
 
-The Tor project is a non-profit organisation that conducts research and development into online privacy and anonymity. It is designed to stop people – including government agencies and corporations – learning your location or tracking your browsing habits.
+>The Tor project is a non-profit organisation that conducts research and development into online privacy and anonymity. 
+>It is designed to stop people – including government agencies and corporations – learning your location or tracking your browsing habits.
 
 Thats a legit quote, I just copy pasted it and can happily point you to Wikipedia for more info, but in this case I’m not going to, ill let your fingers do the walking.
 
@@ -113,16 +114,16 @@ You would just need the name of the relay or the unique fingerprint ID
 
 I did have errors to start with, I only noticed these after a few hours of the relay being up as I had to let it get settled in, long story short and after every tech support persons favourite fix buddy Google (Stack Exchange is a very close second for me at the moment) I found that some lines in my torrc file were incorrect, I have supplied the appended full part of my file below;
 
-ORPort 443
-DirPort 80
-Exitpolicy reject :
-Nickname ieditedconfig
-ContactInfo human@
-AccountingStart day 0.00
-AccountingMax 512 MBytes
-RelayBandwidthRate 5120 KBytes
-RelayBandwidthBurst 10240 KBytes
-DisableDebugger- Attachment 0
+> ORPort 443
+> DirPort 80
+> Exitpolicy reject :
+> Nickname ieditedconfig
+> ContactInfo human@
+> AccountingStart day 0.00
+> AccountingMax 512 MBytes
+> RelayBandwidthRate 5120 KBytes
+> RelayBandwidthBurst 10240 KBytes
+> DisableDebugger- Attachment 0
 
 Another error I had was actually that the version of Tor my machine was running was out of date, i don’t have a screenshot of it so just imagine where it says (Linux 4.4.0-173-generic) as a red block of 2.2, this was resolved by good ‘ol apt-get install tor (surprisingly) and then apt-get update.
 
