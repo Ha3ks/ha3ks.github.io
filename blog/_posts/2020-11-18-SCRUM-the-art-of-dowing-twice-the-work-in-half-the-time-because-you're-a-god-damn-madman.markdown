@@ -34,7 +34,7 @@ Cybrary has free courses each month and me with my dirt Poor status (Dirt poor m
 
 Well I want to pick up 2 certifications* this month as a minimum and as they are both free this month only I have to work hard.
 
-Cybrary for the month of November (in our year 2020 known as THE ENDLESS YEAR) are offering CompTIAs Network+ and also Security+, my brains immediate througt was to enroll in both and hit them hard.
+Cybrary for the month of November (in our year 2020 known as THE ENDLESS YEAR) are offering CompTIAs Network+ and also Security+, my brains immediate thought was to enroll in both and hit them hard.
 
 I then saw that Network+ was 64 hours and Security+ was an additional 45 hours.
 
@@ -81,7 +81,7 @@ The way I do this with video content and where I control the learning, I blast t
 
 Once you burn through a 64 hour course in about 4 half days you can pop all the screenshots in to OneNote and then go over things that don't make sense (in my case this is little as this is basically how I learn (Visual Learner)) and add additional text notes, diagrams and arrows to your notes (love OneNote).
 
-Then I sat in labs for a little while. A lot of the lab work made sense to be and where I had an hout I was usually done and working in about 15minutes, I did have on that was a pain but it was still only half an hour and done, some tasks when you know what you're doing just don't take lone.
+Then I sat in labs for a little while. A lot of the lab work made sense to be and where I had an hour I was usually done and working in about 15minutes, I did have on that was a pain but it was still only half an hour and done, some tasks when you know what you're doing just don't take long.
 
 After note taking and [#LabEveryDay](https://twitter.com/hashtag/labeveryday?lang=en) I took try 1 of the practice tests, Needless to say I was not familiar with the exam layout or anything so scored 63%, not bad but needs work.
 
@@ -101,4 +101,4 @@ When I have more time ill come back to this post and tidy up any spelling mistak
 
 
 <b>Note:</b>
-* Qualifications and Certifications picked up from Cybrary cover learning all the material and passing practice exams to get you ready to splerge on the actual professional 'heres a certificate and plastic card' examinations, for me this side can wait, who has £200 to just drop on Securoty+ or Network+ or more for OSCP..... probably them people dropping an entire wage on a PS5 or XBox Series X.....
+* Qualifications and Certifications picked up from Cybrary cover learning all the material and passing practice exams to get you ready to splerge on the actual professional 'here's a certificate and plastic card' examinations, for me this side can wait, who has £200 to just drop on Security+ or Network+ or even more on something like OSCP *drools*..... probably them people dropping an entire wage on a PS5 or XBox Series X.....
