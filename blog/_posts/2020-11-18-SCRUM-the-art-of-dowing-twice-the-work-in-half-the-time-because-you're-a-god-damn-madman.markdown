@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dan Murray
-title:  "SCRUM, the art of dowing twice the work in half the time, because you're a god damn madman"
+title:  "SCRUM, the art of doing twice the work in half the time, because you're a god damn madman"
 date:   2020-11-18 12:00:00
 disqus_identifier: "14 http://ha3ks.tech/blog/?p=20"
 ---
@@ -21,7 +21,7 @@ I grow tired of YEEETing my CV out into the blackness of the interweb as such I 
 
 I tought myself how to make a better CV (Currently V7 'Pentester Class'), tailor it to my very particular set of skills:
 
-[![TheMaaaan]({{ site.contenturl }}54d46015dd1f0_-_esq-taken-de.jog)]({{ site.contenturl }}54d46015dd1f0_-_esq-taken-de.jpg)
+[![TheMaaaan]({{ site.contenturl }}54d46015dd1f0_-_esq-taken-de.jpg)]({{ site.contenturl }}54d46015dd1f0_-_esq-taken-de.jpg)
 
 In addition I can now pull off a good cover letter and while both of these things will get me in the door but I also need some 'flashy', 'jump out and stand out' qualifications to also make those CV Skimmers pass my details onto a recruiter or other human (Yes all websites and most recruiters use keyword searching and crappy bots that cant parse columns and other 'fancy' formatting).
 
