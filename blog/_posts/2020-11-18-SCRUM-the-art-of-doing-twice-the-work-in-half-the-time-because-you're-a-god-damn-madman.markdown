@@ -6,8 +6,8 @@ date:   2020-11-18 12:00:00
 disqus_identifier: "20 http://ha3ks.tech/blog/?p=20"
 ---
 
->"Why Master Wayne, do we fall?"</br>
->"Because we aren't pushing ourselves hard enough Alfred"</br>
+>"Why Master Wayne, do we fall?"
+>"Because we aren't pushing ourselves hard enough Alfred"
 >- Not a Quote
 
 So how are you casual reader? I saw you did that thing you wanted to do and I am very proud of you! it's been some time since I updated my Blog. Things have been 'busy' as a relative term but all quiet when it comes to getting a new job.
