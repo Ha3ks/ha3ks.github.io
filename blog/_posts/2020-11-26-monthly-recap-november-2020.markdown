@@ -18,6 +18,7 @@ Let me break that down for you.
 <!--more-->
 # <b>So what have I been doing?</b>
 
+
 Per my last post I have been furiously studying and running practice exams for CompTIA Network+ and also Security+ (Linux+ was soooo last month). I condensed about 110 hours of educational content and labs into several half days through the month (an advantage of waking up early) and the end result?
 
 I snagged Certificates of completion for Network+ and Security+ both which can be viewed on my Credential.net and LinkedIn for all recruiters to see. *fanfare*
@@ -47,4 +48,3 @@ Seriously at this point in the game a man needs a decent paying job and I would 
 I hope my rambling helps someone who is looking to learn or makes someone smile. I'm going to try sticking at a minimum to a monthly update but If i find a topic I want to elaborate on or something I want to bring up I'll post it on this my one and only personal blog and see where it goes from there.
 
 In the meantime, Stay Frosty!
-- Dan
